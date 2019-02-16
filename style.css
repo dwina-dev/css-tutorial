@@ -1,0 +1,14 @@
+div{
+    /* background-color: red */
+    /* background-image: url("https://www.thesewingdirectory.co.uk/tinyimages/0Sept17/Family_Tree_Final_version.jpg"); */
+    background-image: url("./tree.jpg");
+    height: 500px;
+    background-size: 100px 100px;
+    /* background-repeat: repeat-x;
+    background-repeat: repeat-y; */
+    background-repeat: no-repeat;
+    /* background-position: top left;
+    background-position: bottom left;
+    background-position: bottom right; */
+    background-position: top right;
+}
