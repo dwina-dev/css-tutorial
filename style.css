@@ -1,0 +1,13 @@
+div{
+    /* border-style: dotted; */
+    /* border-style: dashed; */
+    /* border-top-style: solid;
+    border-bottom-style: dashed;
+    border-left-style: dotted;
+    border-right-style: solid;
+    border-color: red;
+    border-width: 5px; */
+    border: 3px solid blue;
+    /* border-radius: 10px 15px 20px 25px; */
+    border-radius: 40%
+}
