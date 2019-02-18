@@ -1,0 +1,22 @@
+h1{
+    /* text-align: left */
+    text-align: center;
+    /* text-align: right */
+    word-spacing: 15px;
+    letter-spacing: 15px;
+    text-shadow: 3px 3px 6px red;
+    /* text-transform: lowercase; */
+    /* text-transform: uppercase; */
+    text-transform: capitalize;
+}
+
+p{
+    text-indent: 50px;
+    /* direction: rtl; */
+    direction: ltr;
+    line-height: 20px
+}
+
+a{
+    text-decoration: normal;
+}
